@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on Instagram and Youtube
 
-- 💬 Ask me about **excel, powerbi and Sql**
+- 💬 Ask me about **Excel, PowerBI and Sql**
 
 - 📫 How to reach me **hn.negi24@gmail.com**
 
