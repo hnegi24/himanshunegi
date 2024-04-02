@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📝 I regularly write articles on [Instagram and Youtube](Instagram and Youtube)
+- 📝 I regularly write articles on Instagram and Youtube
 
 - 💬 Ask me about **excel, powerbi and Sql**
 
