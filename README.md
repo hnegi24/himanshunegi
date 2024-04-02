@@ -1,8 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/f5a8ba4f28fe3ec8d5eb73dfa2303873b5d7122fb1ba08a5946e24d6c13e82c4/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f4334443132415145536a37322d733567454b672f61727469636c652d636f7665725f696d6167652d736872696e6b5f3630305f323030302f302f313632363735333836373131303f653d3231343734383336343726763d6265746126743d4b6637594175775a74794347594c4e63682d4d676335654f432d376837754c5f646e424149677341465251)]
 <h1 align="center">Hi 👋, I'm Himanshu Negi</h1>
 <h3 align="center">Studying for data scientist coures at Newton School</h3>
-<img align="right" alt="Coding" width="400" src="
-[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG1xMW9rcmw0eTZza2lmNmVtZnd6M2Fnc2ttamtmbHJiYnVyeTloMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif](https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966)”
+<img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-1.gif”
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hnegi24&label=Profile%20views&color=0e75b6&style=flat" alt="hnegi24" /> </p>
 
